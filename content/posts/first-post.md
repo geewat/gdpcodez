@@ -1,6 +1,7 @@
 ---
 title: 'My Journey to Modern Web Development'
 date: 2023-12-01T07:29:24Z
+slug: 'my-journey-to-modern-web-development'
 draft: false
 image: img/my-journey-to-modern-web-dev.jpg
 tags: ["udemy","online course", "javascript", "html", "css"]

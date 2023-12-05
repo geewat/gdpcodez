@@ -1,0 +1,18 @@
+baseURL: ''
+languageCode: en-us
+title: GDPCodes
+theme: hugo-theme-stack
+
+params:
+  mainSections:
+    - posts
+  favicon: /img/favicon.ico
+
+  colorScheme:        
+        toggle: false
+        default: dark
+
+  sidebar:
+    subtitle: "Husband. Father. Coder."
+    avatar:
+      src: img/gdpcodes-logo.png

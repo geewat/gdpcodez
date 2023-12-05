@@ -16,3 +16,13 @@ params:
     subtitle: "Husband. Father. Coder."
     avatar:
       src: img/gdpcodes-logo.png
+
+menu:
+    main: []
+
+    social:
+        - identifier: github
+          name: GitHub
+          url: https://github.com/geewat/gdpcodez
+          params:
+              icon: brand-github

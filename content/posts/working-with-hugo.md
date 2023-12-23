@@ -11,9 +11,11 @@ In this post, I'd like to take a moment to talk about my decision to use Hugo as
 
 ## My Reasons for Blogging 
 
-In fact, I'd like to take a step back from that and explain why I even started this blog. Not long ago, I decided to start digging more into the world of modern web development. [You can read more on that here.](https://gdpcodez.co.uk/posts/my-journey-to-modern-web-development/) I worked through some lessons on CSS fairly quickly but outside of CSS Grid, there wasn't too much for me to take note of. After working through part 1 of a fundamentals course on JavaScript, I picked up enough nuggets of information that I felt would be worth writing down. 
+In fact, I'd like to take a step back from that and explain why I even started this blog. Not long ago, I decided to start digging more into the world of modern web development. [You can read more on that here.](https://gdpcodez.co.uk/posts/my-journey-to-modern-web-development/) I worked through some lessons on CSS fairly quickly but outside of CSS Grid, there wasn't too much for me to take note of. CSS Grid is now something that I've started to utilise more and more in my day to day work. Long gone are the days of floating divs and using Javascript to handle equal column heights.
 
-Initially, I dropped these into Notion with the intention of going back and writing up a summary for myself just as a way to recap the information. It was at that point that I figured it might actually be interesting to document this journey in a blog. I also feel strongly that being able to take things and explain them back in your own words is a great way to help yourself understand new things you are learning. So really, I could both document my journey and reinforce my learning of the material for that journey.
+After working through part 1 of a fundamentals course on JavaScript, I picked up enough nuggets of information that I felt it was worth taking notes for my own benefit. Initially, I dropped these into Notion with the intention of going back and writing up a summary for myself just as a way to recap the information. It was at that point that I figured it might actually be interesting to document this journey in a blog. 
+
+I also feel strongly that being able to take things and explain them back in your own words is a great way to help yourself understand new things you are learning. So really, I could both document my journey and reinforce my learning of the material for that journey.
 
 ## Deciding Against WordPress
 
@@ -25,7 +27,7 @@ I had an awareness of static site generators but never had a reason to use them.
 
 After some quick-ish research, I settled on Hugo as my platform of choice based on a combination of reviews and perceived ease of use.
 
-The funny thing is I ended up spending the guts of 2 weeks learning how to set up a site with Hugo, which actually derailed my JavaScript learning slightly. That being said, a lot of learning still happened to get this blog up and running. I ended up having to create a GitHub account for the first time (shock horror for this developer) along with a Netlify account for hosting the site. The Hugo workflow, coupled with the double team of GitHub and Netlify, allows me to work locally, push to GitHub, and deploy automatically to Netlify. Purchasing the domain name GDPCodez.co.uk (GDP stands for Gareth David Peter, by the way - my full name) rounded everything off, and now I have what I feel is a tidy little process for running my blog going forward.
+The funny thing is I ended up spending the guts of 2 weeks learning how to set up a site with Hugo, which actually derailed my Javascript learning slightly. That being said, a lot of learning still happened to get this blog up and running. I ended up having to create a GitHub account for the first time (shock horror for this developer) along with a Netlify account for hosting the site. The Hugo workflow, coupled with the double team of GitHub and Netlify, allows me to work locally, push to GitHub, and deploy automatically to Netlify. Purchasing the domain name GDPCodez.co.uk (GDP stands for Gareth David Peter, by the way - my full name) rounded everything off, and now I have what I feel is a tidy little process for running my blog going forward.
 
 ## Is Hugo Better Than WordPress?
 
